@@ -1,0 +1,23 @@
+Order Total: 80 TK
+Fish - 80 TK
+------
+Order Total: 430 TK
+Fish - 80 TK
+Pizza - 250 TK
+Burger - 100 TK
+------
+Order Total: 80 TK
+Fish - 80 TK
+------
+Order Total: 330 TK
+Fish - 80 TK
+Pizza - 250 TK
+------
+Order Total: 330 TK
+Fish - 80 TK
+Pizza - 250 TK
+------
+Order Total: 330 TK
+Fish - 80 TK
+Pizza - 250 TK
+------
